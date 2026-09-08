@@ -17,3 +17,5 @@ Open to remote full-time software developer roles. Most recent project: led arch
 - **Portfolio** — [djwcomeau.com](https://djwcomeau.com)
 - **LinkedIn** — [linkedin.com/in/djwcomeau](https://linkedin.com/in/djwcomeau)
 - **Contact** — [djwcomeau.com/contact](https://djwcomeau.com/contact)
+
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/e627a2e5-b4a1-42e5-b12f-5d6823cbea3c.jpeg?v=1788859310)](https://www.boot.dev/certificates/e627a2e5-b4a1-42e5-b12f-5d6823cbea3c)
